@@ -16,10 +16,10 @@ Two versions of the data are given. The raw data is the exact input recorded fro
 For this competition, you may use the raw files, the simplified files, or both. You can find out more details about the drawing format on the quickdraw-dataset github page.
 
 # Dependecies Required:
-**Os**<br>
-**Cv2**
-**Numpy**
-**Pandas**
-**Seaborn**
-**Matplotlib**
-**Keras**
+**1). Os**<br>
+**2). Cv2**<br>
+**3). Numpy**<br>
+**4). Pandas**<br>
+**5). Seaborn**<br>
+**6). Matplotlib**<br>
+**7). Keras**<br>
